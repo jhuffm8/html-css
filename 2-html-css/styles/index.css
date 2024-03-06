@@ -2,3 +2,13 @@ body {
     background-color: blanchedalmond;
 
 }
+
+a:hover {
+    color: green;
+
+}
+
+a:visited {
+
+    color: red;
+}
